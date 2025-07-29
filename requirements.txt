@@ -1,6 +1,4 @@
 streamlit 
-json
-streamlit 
 requests
 openai 
 dotenv 
